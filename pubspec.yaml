@@ -1,0 +1,14 @@
+name: stream_test_subscriber
+description: A Dart package that simplifies testing streams by providing a straightforward API for subscribing to and asserting values from a stream.
+version: 1.0.0
+repository: https://github.com/KwabenBerko/stream_test_subscriber
+
+environment:
+  sdk: ^3.4.4
+
+# Add regular dependencies here.
+dependencies:
+  test: ^1.24.0
+
+dev_dependencies:
+  lints: ^3.0.0
